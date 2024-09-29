@@ -32,5 +32,5 @@ La instrucción <b>foreach</b> se recomienda para el recorrido de arreglos de so
 </p>
 <p>Al ejecutar este programa se mostrará el siguiente resultado:</p>
 <div>
-<img src="picture_library/languagec/bubblesort.png">
+<img src="images/bubblesort.png">
 </div>
